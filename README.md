@@ -2,7 +2,7 @@
 <p align="center">Use : HTML, CSS, JavaScript</p>
 <p align="center">
   <a href="https://monishroy.github.io/nature-code-vision/" target="_blank">
-    <img src="https://img.shields.io/badge/Go-Nature%20ViewGame-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Go-Nature%20View-blue?style=for-the-badge">
   </a>
 </p>
 <img align="center" src="./src/1.png" />
